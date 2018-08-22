@@ -5,5 +5,5 @@ This is a demo showing a simulation of how incremental learning of a GMM in real
 How to use the demo:
 
 1. Download the code and the data
-2. Change the pats in the rtfmri_session_BSDS_DEMO file.
+2. Change the paths in the rtfmri_session_BSDS_DEMO file.
 3. Run the rtfmri_session_BSDS_DEMO file cell by cell. 
